@@ -17,14 +17,14 @@ If you are looking for Qualtrics tutorials, there are other excellent tutorials 
 
 * [CSULB Qualtrics Guide](https://csulb.libguides.com/qualtrics/)
 
-If you are looking for jsPsych v6.x tutorial, the best place to start is [the jsPsych v6.3 Hello World! tutorial](https://www.jspsych.org/6.3/tutorials/hello-world/). Also please check out these resources:
+If you are looking for jsPsych v6.x tutorial, the best place to start is [the jsPsych v6.3 Hello World! tutorial](https://www.jspsych.org/6.3/tutorials/hello-world/). Also check out these resources:
 
 * [The YouTube tutorial from Josh de Leeuw](https://www.youtube.com/playlist?list=PLnfo1lBY1P2Mf_o6rV5wiqqn92Mw3UTGh)
 * [*Online Experiments for Language Scientists* by Kenny Smith and Alisdair Tullo](https://kennysmithed.github.io/oels2021/)
 
 <h2>jsPsych in Qualtrics Tutorial Series</h2>
 
-If you have suggestions, please shoot me an email to  `choe_DOT_kyoung_AT_gmail_DOT_com`. Thanks!
+If you have suggestions, shoot me an email to  `choe_DOT_kyoung_AT_gmail_DOT_com`. Thanks!
 
 Unfortunately, <font color=red>**this tutorial series is no longer actively maintained**</font> (last update, 11/25/2021), as I moved to the industry. Still, I hope this helps fellow researchers.
 

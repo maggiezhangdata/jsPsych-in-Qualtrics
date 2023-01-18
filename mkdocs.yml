@@ -1,5 +1,7 @@
 site_name: jsPsych in Qualtrics Tutorial Series
-theme: readthedocs
+theme:
+  name: readthedocs
+  analytics: {gtag: G-D3RPWB8SEL}
 site_url: 'https://kywch.github.io/jsPsych-in-Qualtrics/'
 repo_url: 'https://github.com/kywch/jsPsych-in-Qualtrics/'
 repo_name: 'kywch/jsPsych-in-Qualtrics'
@@ -23,7 +25,4 @@ nav:
   - Embedding Mood Induction: 'mood-induction.md'
 #site_author: 'Kyoung Whan Choe'
 site_description: 'Step-by-step tutorials and examples on adding jsPsych cognitive tasks to Qualtrics'
-copyright: 'Copyright &copy; 2020-2021 <a href="https://kywch.github.io/" target="_blank">Kyoung Whan Choe</a>. '
-google_analytics:
-- 'UA-102316-3'
-- 'auto'
+copyright: 'Copyright &copy; 2020-2023 <a href="https://kywch.github.io/" target="_blank">Kyoung Whan Choe</a>. '

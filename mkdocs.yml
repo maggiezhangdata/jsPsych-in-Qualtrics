@@ -13,7 +13,6 @@ nav:
   - Hosting jsPsych: 'github-pages.md'
   - Embedding Hello World!: 'hello-world.md'
   - Saving Data with PHP: 'save-php.md'
-  - Saving Data to your Dropbox: 'save-dropbox.md'
   - Recruiting Participants: 'participants.md'
 - Part 2. Case studies:
   - Embedding Reaction-Time Task: 'rt-task.md'
